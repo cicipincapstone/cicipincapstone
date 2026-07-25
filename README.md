@@ -29,8 +29,8 @@ Website telah berhasil dideploy dan dapat diakses melalui:
 
 For more information, check out each learning path to see the individual documentation:
 
-- [Machine Learning](https://github.com/cicipin/machine-learning)
-- [Front End Back End](https://github.com/cicipin/febe)
+- [Machine Learning](https://github.com/cicipincapstone/ml-api)
+- [Front End Back End](https://github.com/cicipincapstone/febe)
 
 ---
 
